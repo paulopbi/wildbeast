@@ -2,13 +2,13 @@
 
 <h2 align="center">Redes Sociais</h2>
 
-<h3 align="center"><a href="https://www.linkedin.com/in/paulovictorpbi/">
+<h3 align="center"><a href="https://www.linkedin.com/in/paulopbi/">
 Linkedin 
 </a> •
 <a href="https://www.instagram.com/paulopbi_/">
 Instagram 
 </a> •
-<a href="https://github.com/Paulpbi">
+<a href="https://github.com/paulopbi">
 Github
 </a> 
 </h3>
